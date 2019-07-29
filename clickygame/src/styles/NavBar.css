@@ -1,0 +1,21 @@
+.container {
+    background: lightcoral;
+    line-height: 70px;
+}
+
+.title {
+    float: left;
+    padding-left: 30px;
+}
+
+.round-status {
+    text-align: center;
+    display: inline-block;
+    padding-left: 530px;
+}
+
+.score {
+    float: right;
+    padding-right:30px;
+    
+}
