@@ -1,50 +1,62 @@
 [
     {
       "id": 1,
-      "image": "baboon.jpg"
+      "name": "baboon",
+      "image": "images/baboon.jpg"
     },
     {
       "id": 2,
+      "name": "crocodile",
       "image": "crocodile.jpg"    
     },
     {
       "id": 3,
-      "image": "deer.jpg"
+      "name": "deer",
+      "image": "../images/deer.jpg"
     },
     {
       "id": 4,
-      "image": "giraffe.jpg" 
+      "name": "giraffe",
+      "image": "./images/giraffe.jpg" 
     },
     {
       "id": 5,
+      "name": "gorilla",
       "image": "gorilla.jpg"
     },
     {
       "id": 6,
+      "name": "kangaroo",
       "image": "kangaroo.jpg"
     },
     {
       "id": 7,
+      "name": "lion",
       "image": "lion.jpg"
     },
     {
       "id": 8,
+      "name": "moose",
       "image": "moose.jpg"
     },
     {
       "id": 9,
+      "name": "penguin",
       "image": "penguin.jpg"
     },
     {
       "id": 10,
+      "name": "squirrel",
       "image": "squirrel.jpg"
     },
     {
       "id": 11,
+      "name": "turtle",
       "image": "turtle.JPG"
     },
     {
       "id": 12,
+      "name": "whale",
       "image": "whale.jpg"
     }
   ]
