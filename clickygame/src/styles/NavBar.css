@@ -1,21 +1,28 @@
 .container {
     background: lightcoral;
+    color: white;
     line-height: 70px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-left: -5px;
 }
 
 .title {
     float: left;
     padding-left: 30px;
+    font-size: 40px;
 }
 
 .round-status {
     text-align: center;
     display: inline-block;
     padding-left: 530px;
+    font-size: 30px;
 }
 
 .score {
     float: right;
     padding-right:30px;
-    
+    font-size: 30px;
 }

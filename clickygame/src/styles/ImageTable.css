@@ -4,9 +4,14 @@
 
 .card {
     margin: 1rem;
-    height: 250px;
+    height: 200px;
     width: 250px;
     float:left;
+    box-shadow: 5px 10px 10px black;
+  }
+
+  .card:hover {
+    transform: scale(1.1);
   }
   
   .card > .image-container {

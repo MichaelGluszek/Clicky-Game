@@ -8,6 +8,7 @@ import Animals from './animals.json';
 class App extends Component {
   state = {
     animals: Animals,
+    roundStatus: "",
     score: 0,
     topScore: 0
   };
@@ -38,6 +39,9 @@ class App extends Component {
 
   } else {
     this.reset();
+
+
+  
   }
 };
 

@@ -1,6 +1,10 @@
 .header {
     text-align: center;
-    background: green;
-    padding-top: 30px;
+    background: lightpink;
+    font-size: 20px;
+    /* color: darkgrey; */
+    text-shadow: 1px 1px white;
+    padding-top: 100px;
     padding-bottom:30px;
+    width: 100%;
 }
